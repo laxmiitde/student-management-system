@@ -1,1 +1,3 @@
-
+Name :
+Attendence status :Present/Absent
+Date :DDMMYYYY
